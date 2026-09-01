@@ -1,11 +1,12 @@
 :root {
-  --navy: #102c46;
-  --teal: #11b8b0;
-  --text: #243746;
-  --muted: #647684;
-  --soft: #f4f7f8;
-  --white: #ffffff;
-  --border: #dce5e8;
+  --blue: #18689D;
+  --light-blue: #34A0C6;
+  --green: #9AC45A;
+  --text: #354A57;
+  --muted: #6B7C86;
+  --soft: #F7F9FA;
+  --white: #FFFFFF;
+  --border: #E3E8EB;
 }
 
 * { box-sizing: border-box; }
