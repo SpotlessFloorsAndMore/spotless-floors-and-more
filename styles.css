@@ -7,6 +7,9 @@
   --soft: #F7F9FA;
   --white: #FFFFFF;
   --border: #E3E8EB;
+  
+  --navy: var(--blue);
+--teal: var(--light-blue);
 }
 
 * { box-sizing: border-box; }
